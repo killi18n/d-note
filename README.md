@@ -1,6 +1,6 @@
 # d-note
 This is my react + django note app tutorial guide's repository
-
+[My Tutorial](https://killi8n.com/post/5ba3ab2bb17fd60398c3da3f)
 # How To Use
 
 ## DJANGO
